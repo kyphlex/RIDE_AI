@@ -23,7 +23,7 @@ def get_static_map_image_with_marker(api_key, lat, lon, zoom=zoom_level, size="8
         print("Failed to retrieve map image:", response.status_code)
 
 
-app_key = "AIzaSyA0ERXgkeSWSQfzrGETFUEHhv7HRGlAlBM"
+app_key = "Your_API_Key"
 try:
     latitude = float(input('Latitude: '))
     longitude = float(input('Longitude: '))

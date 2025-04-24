@@ -36,7 +36,7 @@ def generate_rider():
 
 # Function to generate a random driver profile
 def generate_driver():
-    ride_type = ['solo', 'shared']
+    ride_types = ['solo', 'shared']
     states = ['intrastate', 'interstate']
     features = ['drop', 'logistic', 'errand']
     classes = ['business', 'economy']
@@ -44,12 +44,11 @@ def generate_driver():
     driver = {
         'location_lat': random_lat_lon()[0],
         'location_lon': random_lat_lon()[1],
-        'available_ride_types': random.sample(ride_types, random.randint(1, 2)),
-        # Driver can accept 1 or both ride types
-        'preferred_state': random.choice(states),
+        'ride_type': random.choice(ride_types),
+        'state': random.choice(states),
         'rating': round(random.uniform(3.0, 5.0), 1),  # Random driver rating between 3.0 and 5.0
-        'vehicle_class': random.choice(classes),
-        'available_features': random.sample(features, random.randint(1, 3))  # Driver can offer 1 or more features
+        'class': random.choice(classes),
+        'feature': random.choice(features)  # Driver can offer 1 or more features
     }
 
     return driver

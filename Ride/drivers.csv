@@ -1,0 +1,11 @@
+driver_id,current_lat,current_lon,accepts_solo,accepts_shared,allows_interstate,vehicle_type,vehicle_class,rating,is_idle,current_ride_end
+DR_463735,6.458952577728334,2.6912334405282388,True,True,False,sedan,economy,4.2,False,2025-05-07 20:04:30.466825
+DR_230464,6.4541838232764865,3.2932962200513876,True,True,False,sedan,economy,5.0,True,
+DR_675929,6.62871200008223,3.359197162643085,True,False,False,truck,economy,4.0,True,
+DR_381088,6.540934885886873,3.1412474806986914,True,False,False,truck,economy,4.9,True,
+DR_564759,6.609652146539551,3.482008510047127,True,True,False,bike,business,3.8,False,2025-05-07 19:45:35.090666
+DR_456066,6.622976834722345,2.7609155508484147,True,False,True,sedan,business,4.6,True,
+DR_990845,6.602000300341404,3.3949660316797967,True,True,True,sedan,economy,3.9,False,2025-05-07 19:55:36.329375
+DR_945088,6.444304093889165,2.952444041404816,True,True,False,sedan,business,4.4,True,
+DR_140197,6.620334219313155,2.720772184590581,False,True,False,sedan,economy,4.1,True,
+DR_406512,6.643223090658519,3.199936367074277,True,True,False,sedan,economy,4.9,True,

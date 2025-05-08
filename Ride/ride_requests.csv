@@ -1,0 +1,51 @@
+request_id,ride_type,state,is_scheduled,scheduled_time,is_premium,feature,pickup_lat,pickup_lon,is_exclusive,ride_class,timestamp
+RQ_110787,solo,interstate,False,,True,logistic,6.654591052746928,3.244705149882421,False,economy,2025-05-07 15:43:26
+RQ_100045,solo,intrastate,True,2025-05-07 21:10:23.050833,True,logistic,6.636569985588101,3.1768949866510052,True,business,2025-05-02 08:00:27
+RQ_18909,shared,intrastate,False,,False,drop,6.6944957073577775,2.7089734570270405,False,economy,2025-05-04 21:04:54
+RQ_646254,solo,intrastate,False,,True,drop,6.509684598288831,3.2424657119114215,False,economy,2025-05-06 01:37:23
+RQ_816412,solo,intrastate,False,,False,drop,6.505551596996654,3.2710091224365385,False,business,2025-05-07 00:29:55
+RQ_74584,shared,intrastate,False,,False,drop,6.516080796747039,3.1140943924578766,False,business,2025-05-04 16:47:44
+RQ_102701,solo,intrastate,False,,True,drop,6.684832136709724,3.5177573742898134,False,economy,2025-05-05 15:59:25
+RQ_683228,shared,intrastate,False,,True,drop,6.458616411529547,3.120839202427858,False,economy,2025-05-03 22:15:39
+RQ_523804,solo,interstate,False,,False,drop,6.513305429478224,2.7382795444290875,False,economy,2025-05-06 10:08:47
+RQ_223729,shared,intrastate,True,2025-05-07 20:26:37.206819,False,logistic,6.609052245370243,2.7464814571268272,False,economy,2025-05-06 14:26:24
+RQ_166277,shared,intrastate,False,,False,logistic,6.645655705066663,3.2576331539325705,False,economy,2025-05-01 07:11:56
+RQ_26012,solo,intrastate,False,,False,logistic,6.479752914919953,3.0536307884962985,False,economy,2025-05-02 01:46:05
+RQ_528281,shared,intrastate,False,,False,logistic,6.461411038398019,3.163718247866096,False,business,2025-05-07 11:37:50
+RQ_138719,solo,intrastate,True,2025-05-07 20:47:45.091465,False,logistic,6.679629220390657,3.308182439544656,False,business,2025-05-05 16:32:51
+RQ_417597,shared,intrastate,True,2025-05-07 21:10:45.729656,False,drop,6.41066761896391,3.413724331875197,False,business,2025-05-02 16:43:25
+RQ_661285,solo,intrastate,True,2025-05-07 20:13:46.414367,False,drop,6.62520915951167,3.3568834795347144,False,business,2025-05-04 01:14:08
+RQ_719509,solo,intrastate,False,,True,drop,6.5711791208203,3.175582501962051,False,economy,2025-05-01 11:09:03
+RQ_49848,shared,intrastate,False,,False,logistic,6.482054612933372,3.3337738949277664,False,economy,2025-05-02 12:14:53
+RQ_630510,shared,interstate,False,,True,drop,6.622373279204591,3.0161109056508986,False,economy,2025-05-02 21:57:01
+RQ_64832,shared,intrastate,True,2025-05-07 19:55:50.371718,False,drop,6.493371170379833,3.0568149764755104,False,economy,2025-05-02 02:24:27
+RQ_621484,solo,intrastate,True,2025-05-07 20:13:52.451704,True,drop,6.68533796016045,3.289433937125187,False,business,2025-05-01 17:09:18
+RQ_972426,shared,intrastate,False,,True,drop,6.635282239168396,2.7505265003471773,False,economy,2025-05-02 14:06:51
+RQ_923344,solo,intrastate,False,,True,drop,6.519014198786086,3.1661829461417734,False,economy,2025-05-01 16:26:15
+RQ_491958,shared,intrastate,False,,True,drop,6.42628883664702,2.985048276351005,False,economy,2025-05-01 03:09:01
+RQ_132936,solo,intrastate,False,,False,logistic,6.505558498499493,2.668025539535681,False,business,2025-05-01 14:13:25
+RQ_420881,solo,intrastate,False,,True,drop,6.621075237426757,3.5014027899690032,False,business,2025-05-05 14:51:31
+RQ_938307,solo,interstate,False,,False,drop,6.612954968964606,3.3417274945271265,True,business,2025-05-07 06:22:30
+RQ_82163,solo,interstate,False,,False,drop,6.408253907139999,3.4262544254822695,False,economy,2025-05-02 09:09:10
+RQ_966175,solo,intrastate,False,,False,drop,6.694900096796964,3.3058809328062204,False,business,2025-05-04 20:37:19
+RQ_72530,solo,intrastate,False,,False,errand,6.670205098907816,3.2280036808749117,False,economy,2025-05-04 00:00:36
+RQ_422075,shared,intrastate,False,,False,logistic,6.472351446462558,3.317668695707517,False,business,2025-05-06 10:00:22
+RQ_918335,shared,intrastate,False,,False,logistic,6.42579080099598,2.9702877711570004,False,economy,2025-05-06 21:05:07
+RQ_407264,solo,intrastate,False,,False,logistic,6.430670393264434,3.54285716808369,False,economy,2025-05-02 20:34:01
+RQ_503689,solo,intrastate,False,,False,errand,6.496303106037713,3.055278496319765,False,economy,2025-05-01 04:40:26
+RQ_569816,solo,intrastate,False,,False,drop,6.424072657774568,3.4815411516904744,False,business,2025-05-07 19:31:25
+RQ_956386,solo,intrastate,False,,False,drop,6.44406169477146,3.4301706529522793,False,economy,2025-05-07 08:30:44
+RQ_620767,shared,intrastate,True,2025-05-07 19:56:15.236196,False,drop,6.612402242767711,2.786028460988289,False,economy,2025-05-02 21:54:00
+RQ_23876,solo,interstate,True,2025-05-07 20:03:15.851710,False,drop,6.6865706391774005,3.112309070483747,False,economy,2025-05-06 01:28:55
+RQ_384173,shared,intrastate,False,,False,logistic,6.529934365305948,2.6668964229503733,False,business,2025-05-03 21:03:08
+RQ_111703,solo,interstate,False,,False,drop,6.650079204525116,2.82581842260785,False,economy,2025-05-05 14:49:31
+RQ_293384,solo,intrastate,False,,False,logistic,6.538069695159861,3.3221661325509775,False,economy,2025-05-02 08:00:18
+RQ_942131,solo,intrastate,False,,False,logistic,6.591833485003123,3.0873447491383126,False,economy,2025-05-03 02:36:20
+RQ_607019,shared,intrastate,False,,True,logistic,6.593964649098668,3.3704433972615044,False,economy,2025-05-03 13:04:06
+RQ_34545,solo,intrastate,False,,False,drop,6.667717012357254,3.266472561598885,False,economy,2025-05-05 10:58:50
+RQ_239657,solo,intrastate,False,,False,logistic,6.69736796879081,3.1948523743225037,False,economy,2025-05-04 05:08:24
+RQ_805057,shared,interstate,False,,True,logistic,6.638368586909471,3.407636956187371,False,economy,2025-05-04 21:40:03
+RQ_512117,shared,intrastate,False,,False,drop,6.660850312925936,3.378047676231061,False,economy,2025-05-06 10:46:36
+RQ_531789,solo,intrastate,True,2025-05-07 21:12:25.499108,False,drop,6.404254864032513,3.033588821432245,False,economy,2025-05-05 20:55:42
+RQ_97539,shared,intrastate,False,,False,drop,6.617257202928479,3.0754629223165226,False,business,2025-05-03 19:37:05
+RQ_922106,solo,intrastate,False,,False,logistic,6.6219777611888695,3.484218835436539,True,economy,2025-05-04 15:16:21
